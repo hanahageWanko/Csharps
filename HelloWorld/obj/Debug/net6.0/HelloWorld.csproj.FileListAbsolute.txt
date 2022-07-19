@@ -1,0 +1,15 @@
+/home/kiraramimi/Git/Csharps/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/kiraramimi/Git/Csharps/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/kiraramimi/Git/Csharps/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/kiraramimi/Git/Csharps/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/kiraramimi/Git/Csharps/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/home/kiraramimi/Git/Csharps/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
